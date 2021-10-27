@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="199" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="199" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:21 IST">
+      <class name="Demo.TestCaseA">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Demo.TestCaseA@887af79]" name="beforeClass" is-config="true" duration-ms="22" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="demoD()[pri:-1, instance:Demo.TestCaseA@887af79]" name="demoD" duration-ms="16" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoD -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="beforemethod" is-config="true" duration-ms="2" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="demoA()[pri:0, instance:Demo.TestCaseA@887af79]" name="demoA" duration-ms="2" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoA -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="demoB()[pri:0, instance:Demo.TestCaseA@887af79]" name="demoB" duration-ms="11" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoB -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="demoC()[pri:0, instance:Demo.TestCaseA@887af79]" name="demoC" duration-ms="2" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoC -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.TestCaseA@887af79]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Demo.TestCaseA@887af79]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Demo.TestCaseA -->
+      <class name="Demo.NewTestClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="beforeClass" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testD()[pri:-1, instance:Demo.NewTestClass@7fac631b]" name="testD" duration-ms="2" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testD -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testA()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="testA" duration-ms="2" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testA -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testB()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="testB" duration-ms="6" started-at="2021-10-27T19:30:20 IST" finished-at="2021-10-27T19:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testB -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:21 IST" finished-at="2021-10-27T19:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="beforemethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:21 IST" finished-at="2021-10-27T19:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="testC()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="testC" duration-ms="2" started-at="2021-10-27T19:30:21 IST" finished-at="2021-10-27T19:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testC -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:21 IST" finished-at="2021-10-27T19:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Demo.NewTestClass@7fac631b]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-10-27T19:30:21 IST" finished-at="2021-10-27T19:30:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Demo.NewTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
