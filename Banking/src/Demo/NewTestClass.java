@@ -23,6 +23,10 @@ public class NewTestClass {
 	public void beforemethod()
 	{
 		System.out.println("before method");
+		System.out.println("before method");
+		System.out.println("before method");
+		System.out.println("before method");
+		System.out.println("before method");
 	}
 	
 	@Test
